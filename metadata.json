@@ -1,0 +1,6 @@
+{
+  "name": "Pustaka Akademia",
+  "description": "Perpustakaan digital akademik yang inklusif dengan layanan sirkulasi daring, pembaca e-book aksesibel, penelusuran koleksi terpadu, dan akses sumber belajar yang mudah, cepat, dan fleksibel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
